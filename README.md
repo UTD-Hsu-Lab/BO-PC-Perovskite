@@ -4,7 +4,7 @@ This code is written Weijie Xu (University of Texas at Dallas, USA. ORCID: https
 
 When using the code for any scientific publications or conferences, please cite our research article as:
 
-W. Xu, Z. Liu, R.T. Piper, J.W.P. Hsu, Bayesian Optimization of Photonic Curing Process for Flexible Perovskite Photovoltaic Devices, SSRN Electron. J. 7 (2022) 285–292. https://doi.org/10.2139/ssrn.4172995.
+W. Xu, Z. Liu, R.T. Piper, J.W.P. Hsu, Bayesian Optimization of Photonic Curing Process for Flexible Perovskite Photovoltaic Devices, Solar Energy Mater. Solar Cells 249, 112055 (2023) https://doi.org/10.1016/j.solmat.2022.112055
 
 Some key packages (and their versions) involved to run this code are as follows:
 GPy 1.10.0
